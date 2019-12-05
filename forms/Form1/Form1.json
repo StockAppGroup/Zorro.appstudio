@@ -14,27 +14,18 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "StockScreen", 
+        "Form1", 
         "Elements", 
-        "GridRow2.json"
+        "GridColumn1.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "StockScreen", 
+        "Form1", 
         "Elements", 
-        "GridRow3.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "StockScreen", 
-        "Elements", 
-        "GridRow4.json"
+        "GridRow1.json"
       ]
     }
   ], 
@@ -44,7 +35,7 @@
   "expanded_pmp": null, 
   "fullScreen": "true", 
   "height": 460, 
-  "id": "StockScreen", 
+  "id": "Form1", 
   "language": "JavaScript", 
   "left": "0", 
   "locked": false, 

@@ -14,15 +14,15 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "StockSearch", 
+        "Form1", 
         "Elements", 
-        "iptTicker.json"
+        "Jumbotron1.json"
       ]
     }
   ], 
   "class": "", 
   "color": "", 
-  "display": "", 
+  "display": "inline", 
   "expanded_pmp": null, 
   "flexDirection": "", 
   "flexWrap": "", 
@@ -30,17 +30,17 @@
   "fontSize": "", 
   "fontStyle": "", 
   "fontWeight": "", 
-  "height": 464, 
+  "height": 240, 
   "hidden": "", 
-  "id": "gc3", 
+  "id": "GridColumn1", 
   "justifyContent": "", 
-  "left": "63", 
+  "left": "auto", 
   "mAll": "", 
   "mBottom": "", 
   "mLeft": "", 
   "mRight": "", 
   "mTop": "", 
-  "onclick": "", 
+  "onclick": "GridColumn1.onclick()", 
   "onmousedown": "", 
   "onmousemove": "", 
   "onmouseout": "", 
@@ -63,6 +63,6 @@
   "size-xl": 4, 
   "size-xs": 4, 
   "style": "", 
-  "top": "-3", 
-  "width": 224
+  "top": 0, 
+  "width": 328
 }

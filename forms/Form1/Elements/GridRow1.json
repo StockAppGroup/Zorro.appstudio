@@ -1,11 +1,11 @@
 {
-  "!type": "GridColumn_bs4", 
+  "!type": "GridRow_bs4", 
   "alignContent": "", 
   "alignItems": "", 
   "backgroundColor": "", 
   "borderColor": "#E0E0E0", 
   "borderStyle": "", 
-  "borderWidth": "", 
+  "borderWidth": "1", 
   "bottom": "auto", 
   "cached_js": "", 
   "cached_js_script_hash": "d41d8cd98f00b204e9800998ecf8427e", 
@@ -14,25 +14,44 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "StockSearch", 
+        "Form1", 
         "Elements", 
-        "navHome.json"
+        "Card1.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Form1", 
+        "Elements", 
+        "Card1Copy.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Form1", 
+        "Elements", 
+        "Card1CopyCopy.json"
       ]
     }
   ], 
   "class": "", 
   "color": "", 
-  "display": "", 
+  "display": "flex", 
   "expanded_pmp": null, 
-  "flexDirection": "", 
-  "flexWrap": "", 
+  "flexDirection": "column", 
+  "flexWrap": "wrap", 
   "fontFamily": "", 
   "fontSize": "", 
   "fontStyle": "", 
   "fontWeight": "", 
-  "height": 464, 
+  "gutters": " no-gutters", 
+  "height": "100", 
   "hidden": "", 
-  "id": "gc1", 
+  "id": "GridRow1", 
   "justifyContent": "", 
   "left": 0, 
   "mAll": "", 
@@ -54,15 +73,12 @@
   "pLeft": "", 
   "pRight": "", 
   "pTop": "", 
-  "position": "inherit", 
+  "position": "relative", 
   "right": "auto", 
+  "rowClass": "", 
   "script": "", 
-  "size-lg": 4, 
-  "size-md": 4, 
-  "size-sm": 4, 
-  "size-xl": 4, 
-  "size-xs": 4, 
   "style": "", 
-  "top": 0, 
-  "width": 72
+  "top": 240, 
+  "verticalAlign": "", 
+  "width": "100%"
 }

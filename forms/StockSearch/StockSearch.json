@@ -16,25 +16,7 @@
         "forms", 
         "StockSearch", 
         "Elements", 
-        "gc1.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "StockSearch", 
-        "Elements", 
-        "gc2.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "StockSearch", 
-        "Elements", 
-        "gc3.json"
+        "iptTicker.json"
       ]
     }, 
     {
